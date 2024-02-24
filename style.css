@@ -1,0 +1,140 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+
+header{
+    background-color:#FFD900 ;
+    margin-top: 0;
+    
+}
+header img{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+ #titulo1{
+background-color:#514988 ;
+margin-top: 0;
+width: 50%;
+
+}
+
+#principal{
+    color:#F3C61F;
+    font-size: 65px;
+    width: 650px;
+    align-items: center;
+  
+}
+
+#texto{
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+  
+
+}
+
+
+
+#tiutlo2 {
+    font-size: 30px;
+    color: #FFFFFF;
+    text-align: center;
+   
+    margin: 0;
+
+}
+
+.timer{
+    display: flex;
+    flex-direction: column;
+    font-size: 5px;
+    margin-top: 0;
+    padding-left: 5px;
+
+
+
+}
+#count{
+
+    display: flex;
+    flex-direction: row;
+    font-size: 25px;
+    font-weight: 700;
+   
+    text-align: center;
+    padding-left: 15px;
+    height:80px ;
+    color: #514988;
+
+ 
+
+}
+
+
+#text1{
+    
+    color: #E33881;
+    font-size: 10px;
+    font-weight: 700;
+   margin-left: 5px;
+   margin-top: 10px;
+   padding-left: 16px;
+}
+
+
+
+.container{     
+      
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+  
+
+   
+}
+#sub{
+font-size: 23px;
+font-weight: 700;
+text-align: left;
+margin-left: 40px;
+color: #F3C61F;
+;
+
+}
+.portifolioimg{
+
+    margin-left: 0;
+    height: 40px;
+    width: 170px;
+}
+
+
+
+#botao{
+ 
+    width: 400px;
+    height: 130px;
+    top: 903px;
+    left: 1004px;
+    border-radius: 20px;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 51px;
+    background-color: #514988;
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+
+button:hover{
+
+    background: #514988;
+            cursor:pointer;
+            color: #F3C61F;
+}
+
+
